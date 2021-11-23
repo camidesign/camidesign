@@ -1,7 +1,10 @@
-- 👋🏽 Hi, I’m @camidesign
-- 👀 I’m interested in product design, coding and creating in general
-- 👩🏼‍💻 I’m currently learning html, css & javascript
-- 💞 You can visit my website <a target="_blank" href="http://www.cami-design.com">here</a>
+<div align="center">
+- 👋🏽  Hi, I’m <strong>@camidesign</strong> <br>
+- 👀  I’m interested in product design, coding and creating in general <br>
+- 👩🏼‍💻  I’m currently learning html, css & javascript <br>
+- 💞  You can visit my website <strong><a target="_blank" href="http://www.cami-design.com">here</a> </strong> <br>
+  <br>
+</div>
 
 <div align="center">
   <a href="https://github.com/camidesign">
