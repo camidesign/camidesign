@@ -1,6 +1,7 @@
-- 👋🏽  Hi, I’m <strong>@camidesign</strong> 
+## Hello! My name is Cami 👩🏼‍💻🎨✏️
+- 👋🏽  I’m <strong>@camidesign</strong> 
 - 👀  I’m interested in product design, coding and creating in general 
-- 👩🏼‍💻  I’m currently learning html, css & javascript 
+- 👩🏼‍💻  I’m currently working with html, css & javascript 
 - 💞  You can visit my website <strong><a target="_blank" href="http://www.cami-design.com">here</a> </strong>
   
 <div style="display: inline_block" align="left"><br>
