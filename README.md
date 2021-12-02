@@ -27,7 +27,7 @@
 <div> 
   <a href="https://www.cami-design.com" target="_blank"><img src="https://img.shields.io/badge/-website-ff69b4?style=for-the-badge&logo=addthis&logoColor=white" target="_blank"></a>
   <a href="https://dribbble.com/cami-design" target="_blank"><img src="https://img.shields.io/badge/-dribbble-blueviolet?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
-  <a href="https://dribbble.com/cami-design" target="_blank"><img src="https://img.shields.io/badge/-linkedin-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camillastorvik/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
   
