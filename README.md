@@ -1,4 +1,4 @@
-## Hello! My name is Cami 🎨
+## Hello! My name is Camilla 🎨
 - I’m interested in product design, coding and creating in general 
 - I’m currently working with html, css & javascript
 - You can visit my website <strong><a target="_blank" href="http://www.cami-design.com">here</a> </strong>
